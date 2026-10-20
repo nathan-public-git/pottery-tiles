@@ -24,6 +24,8 @@ The public site is a static read-only catalogue: the editor changes only the cur
 
 The portable version-1 JSON contains `tiles`, `underglazes`, and `firings`; photos belong to individual tiles and include originals, thumbnails, names and captions. Exports include every image and can become large; a separate media store and authenticated editing backend would be appropriate as the archive grows. Keep source photos separately as well.
 
+The first 15 published photographs use non-destructive viewing regions of `media/series-1-original.jpg`. This preserves the supplied full-resolution JPEG byte for byte, with no colour adjustments or generated pixels. The enlarged view includes a link to the complete group photograph. Keep the `media` folder alongside JSON exports containing these relative references. Published photos are also merged into older browser drafts without replacing their notes or uploads.
+
 ## Confirmed data
 
 Tiles 1–45 follow the three 15-tile underglaze series: twelve standard tests, a white reference and two side-by-side tests per series. Tiles 46–48 contain the specified overlap experiments. Tiles 49–60 remain reserved. White is applied over colour. Underglaze stripes, actual firing details, surface characteristics and observations remain blank or unevaluated until recorded. No artificial result photographs are used.

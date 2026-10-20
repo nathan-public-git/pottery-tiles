@@ -33,6 +33,7 @@ jobs:
         run: |
           mkdir public
           cp index.html style.css app.js collection.json public/
+          if [ -d media ]; then cp -R media public/; fi
           touch public/.nojekyll
       - uses: actions/configure-pages@v5
         with:

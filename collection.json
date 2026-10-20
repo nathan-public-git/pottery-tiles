@@ -15,7 +15,23 @@
       "colourChange": "Not evaluated",
       "surface": "",
       "rating": "Not evaluated",
-      "photos": []
+      "photos": [
+        {
+          "id": "series-1-tile-1",
+          "name": "IMG_20261020_161732310.jpg",
+          "original": "media/series-1-original.jpg",
+          "thumbnail": "media/series-1-original.jpg",
+          "caption": "Tile 1. Detail from the original group photograph; row 1, column 1. Numbering confirmed by the owner.",
+          "type": "group detail",
+          "crop": {
+            "x": 0.0927734375,
+            "y": 0.03796095444685466,
+            "w": 0.12939453125,
+            "h": 0.2603036876355748,
+            "aspect": 1.1041666666666667
+          }
+        }
+      ]
     },
     {
       "id": 2,
@@ -31,7 +47,23 @@
       "colourChange": "Not evaluated",
       "surface": "",
       "rating": "Not evaluated",
-      "photos": []
+      "photos": [
+        {
+          "id": "series-1-tile-2",
+          "name": "IMG_20261020_161732310.jpg",
+          "original": "media/series-1-original.jpg",
+          "thumbnail": "media/series-1-original.jpg",
+          "caption": "Tile 2. Detail from the original group photograph; row 1, column 2. Numbering confirmed by the owner.",
+          "type": "group detail",
+          "crop": {
+            "x": 0.2197265625,
+            "y": 0.03253796095444685,
+            "w": 0.1513671875,
+            "h": 0.23318872017353579,
+            "aspect": 1.441860465116279
+          }
+        }
+      ]
     },
     {
       "id": 3,
@@ -47,7 +79,23 @@
       "colourChange": "Not evaluated",
       "surface": "",
       "rating": "Not evaluated",
-      "photos": []
+      "photos": [
+        {
+          "id": "series-1-tile-3",
+          "name": "IMG_20261020_161732310.jpg",
+          "original": "media/series-1-original.jpg",
+          "thumbnail": "media/series-1-original.jpg",
+          "caption": "Tile 3. Detail from the original group photograph; row 1, column 3. Numbering confirmed by the owner.",
+          "type": "group detail",
+          "crop": {
+            "x": 0.37353515625,
+            "y": 0.05422993492407809,
+            "w": 0.1318359375,
+            "h": 0.24945770065075923,
+            "aspect": 1.173913043478261
+          }
+        }
+      ]
     },
     {
       "id": 4,
@@ -63,7 +111,23 @@
       "colourChange": "Not evaluated",
       "surface": "",
       "rating": "Not evaluated",
-      "photos": []
+      "photos": [
+        {
+          "id": "series-1-tile-4",
+          "name": "IMG_20261020_161732310.jpg",
+          "original": "media/series-1-original.jpg",
+          "thumbnail": "media/series-1-original.jpg",
+          "caption": "Tile 4. Detail from the original group photograph; row 1, column 4. Numbering confirmed by the owner.",
+          "type": "group detail",
+          "crop": {
+            "x": 0.5126953125,
+            "y": 0.03253796095444685,
+            "w": 0.15625,
+            "h": 0.2765726681127983,
+            "aspect": 1.2549019607843137
+          }
+        }
+      ]
     },
     {
       "id": 5,
@@ -79,7 +143,23 @@
       "colourChange": "Not evaluated",
       "surface": "",
       "rating": "Not evaluated",
-      "photos": []
+      "photos": [
+        {
+          "id": "series-1-tile-5",
+          "name": "IMG_20261020_161732310.jpg",
+          "original": "media/series-1-original.jpg",
+          "thumbnail": "media/series-1-original.jpg",
+          "caption": "Tile 5. Detail from the original group photograph; row 1, column 5. Numbering confirmed by the owner.",
+          "type": "group detail",
+          "crop": {
+            "x": 0.732421875,
+            "y": 0.0650759219088937,
+            "w": 0.10009765625,
+            "h": 0.21691973969631237,
+            "aspect": 1.025
+          }
+        }
+      ]
     },
     {
       "id": 6,
@@ -95,7 +175,23 @@
       "colourChange": "Not evaluated",
       "surface": "",
       "rating": "Not evaluated",
-      "photos": []
+      "photos": [
+        {
+          "id": "series-1-tile-6",
+          "name": "IMG_20261020_161732310.jpg",
+          "original": "media/series-1-original.jpg",
+          "thumbnail": "media/series-1-original.jpg",
+          "caption": "Tile 6. Detail from the original group photograph; row 2, column 1. Numbering confirmed by the owner.",
+          "type": "group detail",
+          "crop": {
+            "x": 0.048828125,
+            "y": 0.3470715835140998,
+            "w": 0.14892578125,
+            "h": 0.2440347071583514,
+            "aspect": 1.3555555555555556
+          }
+        }
+      ]
     },
     {
       "id": 7,
@@ -111,7 +207,23 @@
       "colourChange": "Not evaluated",
       "surface": "",
       "rating": "Not evaluated",
-      "photos": []
+      "photos": [
+        {
+          "id": "series-1-tile-7",
+          "name": "IMG_20261020_161732310.jpg",
+          "original": "media/series-1-original.jpg",
+          "thumbnail": "media/series-1-original.jpg",
+          "caption": "Tile 7. Detail from the original group photograph; row 2, column 2. Numbering confirmed by the owner.",
+          "type": "group detail",
+          "crop": {
+            "x": 0.234375,
+            "y": 0.3091106290672451,
+            "w": 0.13427734375,
+            "h": 0.2874186550976139,
+            "aspect": 1.0377358490566038
+          }
+        }
+      ]
     },
     {
       "id": 8,
@@ -127,7 +239,23 @@
       "colourChange": "Not evaluated",
       "surface": "",
       "rating": "Not evaluated",
-      "photos": []
+      "photos": [
+        {
+          "id": "series-1-tile-8",
+          "name": "IMG_20261020_161732310.jpg",
+          "original": "media/series-1-original.jpg",
+          "thumbnail": "media/series-1-original.jpg",
+          "caption": "Tile 8. Detail from the original group photograph; row 2, column 3. Numbering confirmed by the owner.",
+          "type": "group detail",
+          "crop": {
+            "x": 0.37109375,
+            "y": 0.33080260303687636,
+            "w": 0.1611328125,
+            "h": 0.24945770065075923,
+            "aspect": 1.434782608695652
+          }
+        }
+      ]
     },
     {
       "id": 9,
@@ -143,7 +271,23 @@
       "colourChange": "Not evaluated",
       "surface": "",
       "rating": "Not evaluated",
-      "photos": []
+      "photos": [
+        {
+          "id": "series-1-tile-9",
+          "name": "IMG_20261020_161732310.jpg",
+          "original": "media/series-1-original.jpg",
+          "thumbnail": "media/series-1-original.jpg",
+          "caption": "Tile 9. Detail from the original group photograph; row 2, column 4. Numbering confirmed by the owner.",
+          "type": "group detail",
+          "crop": {
+            "x": 0.5224609375,
+            "y": 0.3470715835140998,
+            "w": 0.19775390625,
+            "h": 0.2874186550976139,
+            "aspect": 1.528301886792453
+          }
+        }
+      ]
     },
     {
       "id": 10,
@@ -159,7 +303,23 @@
       "colourChange": "Not evaluated",
       "surface": "",
       "rating": "Not evaluated",
-      "photos": []
+      "photos": [
+        {
+          "id": "series-1-tile-10",
+          "name": "IMG_20261020_161732310.jpg",
+          "original": "media/series-1-original.jpg",
+          "thumbnail": "media/series-1-original.jpg",
+          "caption": "Tile 10. Detail from the original group photograph; row 2, column 5. Numbering confirmed by the owner.",
+          "type": "group detail",
+          "crop": {
+            "x": 0.72509765625,
+            "y": 0.3362255965292842,
+            "w": 0.13427734375,
+            "h": 0.25488069414316705,
+            "aspect": 1.1702127659574468
+          }
+        }
+      ]
     },
     {
       "id": 11,
@@ -175,7 +335,23 @@
       "colourChange": "Not evaluated",
       "surface": "",
       "rating": "Not evaluated",
-      "photos": []
+      "photos": [
+        {
+          "id": "series-1-tile-11",
+          "name": "IMG_20261020_161732310.jpg",
+          "original": "media/series-1-original.jpg",
+          "thumbnail": "media/series-1-original.jpg",
+          "caption": "Tile 11. Detail from the original group photograph; row 3, column 1. Numbering confirmed by the owner.",
+          "type": "group detail",
+          "crop": {
+            "x": 0.048828125,
+            "y": 0.6724511930585684,
+            "w": 0.1904296875,
+            "h": 0.27114967462039047,
+            "aspect": 1.56
+          }
+        }
+      ]
     },
     {
       "id": 12,
@@ -191,7 +367,23 @@
       "colourChange": "Not evaluated",
       "surface": "",
       "rating": "Not evaluated",
-      "photos": []
+      "photos": [
+        {
+          "id": "series-1-tile-12",
+          "name": "IMG_20261020_161732310.jpg",
+          "original": "media/series-1-original.jpg",
+          "thumbnail": "media/series-1-original.jpg",
+          "caption": "Tile 12. Detail from the original group photograph; row 3, column 2. Numbering confirmed by the owner.",
+          "type": "group detail",
+          "crop": {
+            "x": 0.2392578125,
+            "y": 0.6887201735357917,
+            "w": 0.12939453125,
+            "h": 0.26572668112798264,
+            "aspect": 1.0816326530612246
+          }
+        }
+      ]
     },
     {
       "id": 13,
@@ -207,7 +399,23 @@
       "colourChange": "Not evaluated",
       "surface": "",
       "rating": "Not evaluated",
-      "photos": []
+      "photos": [
+        {
+          "id": "series-1-tile-13",
+          "name": "IMG_20261020_161732310.jpg",
+          "original": "media/series-1-original.jpg",
+          "thumbnail": "media/series-1-original.jpg",
+          "caption": "Tile 13. Detail from the original group photograph; row 3, column 3. Numbering confirmed by the owner.",
+          "type": "group detail",
+          "crop": {
+            "x": 0.36865234375,
+            "y": 0.6290672451193059,
+            "w": 0.146484375,
+            "h": 0.37093275488069416,
+            "aspect": 0.8771929824561403
+          }
+        }
+      ]
     },
     {
       "id": 14,
@@ -224,7 +432,23 @@
       "colourChange": "Not evaluated",
       "surface": "",
       "rating": "Not evaluated",
-      "photos": []
+      "photos": [
+        {
+          "id": "series-1-tile-14",
+          "name": "IMG_20261020_161732310.jpg",
+          "original": "media/series-1-original.jpg",
+          "thumbnail": "media/series-1-original.jpg",
+          "caption": "Tile 14. Detail from the original group photograph; row 3, column 4. Numbering confirmed by the owner.",
+          "type": "group detail",
+          "crop": {
+            "x": 0.537109375,
+            "y": 0.6778741865509761,
+            "w": 0.1025390625,
+            "h": 0.28199566160520606,
+            "aspect": 0.8076923076923077
+          }
+        }
+      ]
     },
     {
       "id": 15,
@@ -241,7 +465,23 @@
       "colourChange": "Not evaluated",
       "surface": "",
       "rating": "Not evaluated",
-      "photos": []
+      "photos": [
+        {
+          "id": "series-1-tile-15",
+          "name": "IMG_20261020_161732310.jpg",
+          "original": "media/series-1-original.jpg",
+          "thumbnail": "media/series-1-original.jpg",
+          "caption": "Tile 15. Detail from the original group photograph; row 3, column 5. Numbering confirmed by the owner.",
+          "type": "group detail",
+          "crop": {
+            "x": 0.6640625,
+            "y": 0.6453362255965293,
+            "w": 0.20751953125,
+            "h": 0.3362255965292842,
+            "aspect": 1.3709677419354838
+          }
+        }
+      ]
     },
     {
       "id": 16,

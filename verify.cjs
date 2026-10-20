@@ -11,6 +11,6 @@ console.log('Passed: 60 records, exact standard matrix, experiment counts, 10 bl
 const published=JSON.parse(fs.readFileSync('collection.json','utf8'));
 const validateSource=source.slice(source.indexOf('function validate(d)'),source.indexOf("$('#importFile').onchange"));
 vm.runInNewContext(validateSource+';validate(input)',{input:published});
-assert.equal(published.tiles.filter(t=>t.photos.length).length,15);
-for(let i=0;i<15;i++){const p=published.tiles[i].photos[0];assert.equal(p.id,`series-1-tile-${i+1}`);assert(fs.existsSync(p.original));assert(p.crop.x+p.crop.w<=1);assert(p.crop.y+p.crop.h<=1)}
-console.log('Passed: 15 numbered photo regions, valid source references and region bounds.');
+assert.equal(published.tiles.filter(t=>t.photos.length).length,30);
+for(let i=0;i<30;i++){const p=published.tiles[i].photos[0];assert.equal(p.id,`series-${Math.floor(i/15)+1}-tile-${i+1}`);assert(fs.existsSync(p.original));assert(p.crop.x+p.crop.w<=1);assert(p.crop.y+p.crop.h<=1)}
+console.log('Passed: 30 numbered photo regions, valid source references and region bounds.');

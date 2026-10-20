@@ -28,6 +28,8 @@ The first 15 published photographs use non-destructive viewing regions of `media
 
 ## Confirmed data
 
+Tiles 31–45 use viewing regions of the unchanged `media/series-3-original.jpg`, in owner-confirmed row order. All three underglaze series now have published photographic records.
+
 Tiles 16–30 use the same non-destructive region approach with `media/series-2-original.jpg`, in owner-confirmed row order. Tiles near the bottom edge retain the framing of the supplied photograph.
 
 Tiles 1–45 follow the three 15-tile underglaze series: twelve standard tests, a white reference and two side-by-side tests per series. Tiles 46–48 contain the specified overlap experiments. Tiles 49–60 remain reserved. White is applied over colour. Underglaze stripes, actual firing details, surface characteristics and observations remain blank or unevaluated until recorded. No artificial result photographs are used.

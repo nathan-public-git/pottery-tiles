@@ -28,6 +28,8 @@ The first 15 published photographs use non-destructive viewing regions of `media
 
 ## Confirmed data
 
+Tiles 46–48 use viewing regions of the unchanged `media/overlap-original.jpg`, left to right. All 48 assigned tests now have photographic records; tiles 49–60 remain reserved. Overlap application order remains unrecorded.
+
 Tiles 31–45 use viewing regions of the unchanged `media/series-3-original.jpg`, in owner-confirmed row order. All three underglaze series now have published photographic records.
 
 Tiles 16–30 use the same non-destructive region approach with `media/series-2-original.jpg`, in owner-confirmed row order. Tiles near the bottom edge retain the framing of the supplied photograph.

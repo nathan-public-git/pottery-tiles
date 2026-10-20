@@ -1462,7 +1462,23 @@
       "colourChange": "Not evaluated",
       "surface": "",
       "rating": "Not evaluated",
-      "photos": []
+      "photos": [
+        {
+          "id": "overlap-tile-46",
+          "name": "IMG_20261020_162235651.jpg",
+          "original": "media/overlap-original.jpg",
+          "thumbnail": "media/overlap-original.jpg",
+          "caption": "Tile 46. Detail from the original group photograph; position 1 from the left. Numbering follows the agreed left-to-right order.",
+          "type": "group detail",
+          "crop": {
+            "x": 0.08056640625,
+            "y": 0.2982646420824295,
+            "w": 0.2197265625,
+            "h": 0.4175704989154013,
+            "aspect": 1.1688311688311688
+          }
+        }
+      ]
     },
     {
       "id": 47,
@@ -1479,7 +1495,23 @@
       "colourChange": "Not evaluated",
       "surface": "",
       "rating": "Not evaluated",
-      "photos": []
+      "photos": [
+        {
+          "id": "overlap-tile-47",
+          "name": "IMG_20261020_162235651.jpg",
+          "original": "media/overlap-original.jpg",
+          "thumbnail": "media/overlap-original.jpg",
+          "caption": "Tile 47. Detail from the original group photograph; position 2 from the left. Numbering follows the agreed left-to-right order.",
+          "type": "group detail",
+          "crop": {
+            "x": 0.34423828125,
+            "y": 0.2982646420824295,
+            "w": 0.185546875,
+            "h": 0.3579175704989154,
+            "aspect": 1.1515151515151516
+          }
+        }
+      ]
     },
     {
       "id": 48,
@@ -1496,7 +1528,23 @@
       "colourChange": "Not evaluated",
       "surface": "",
       "rating": "Not evaluated",
-      "photos": []
+      "photos": [
+        {
+          "id": "overlap-tile-48",
+          "name": "IMG_20261020_162235651.jpg",
+          "original": "media/overlap-original.jpg",
+          "thumbnail": "media/overlap-original.jpg",
+          "caption": "Tile 48. Detail from the original group photograph; position 3 from the left. Numbering follows the agreed left-to-right order.",
+          "type": "group detail",
+          "crop": {
+            "x": 0.6201171875,
+            "y": 0.39045553145336226,
+            "w": 0.21484375,
+            "h": 0.2928416485900217,
+            "aspect": 1.6296296296296295
+          }
+        }
+      ]
     },
     {
       "id": 49,

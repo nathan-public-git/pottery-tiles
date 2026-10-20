@@ -11,6 +11,7 @@ console.log('Passed: 60 records, exact standard matrix, experiment counts, 10 bl
 const published=JSON.parse(fs.readFileSync('collection.json','utf8'));
 const validateSource=source.slice(source.indexOf('function validate(d)'),source.indexOf("$('#importFile').onchange"));
 vm.runInNewContext(validateSource+';validate(input)',{input:published});
-assert.equal(published.tiles.filter(t=>t.photos.length).length,45);
-for(let i=0;i<45;i++){const p=published.tiles[i].photos[0];assert.equal(p.id,`series-${Math.floor(i/15)+1}-tile-${i+1}`);assert(fs.existsSync(p.original));assert(p.crop.x+p.crop.w<=1);assert(p.crop.y+p.crop.h<=1)}
-console.log('Passed: 45 numbered photo regions, valid source references and region bounds.');
+assert.equal(published.tiles.filter(t=>t.photos.length).length,48);
+for(let i=0;i<48;i++){const p=published.tiles[i].photos[0];assert.equal(p.id,i<45?`series-${Math.floor(i/15)+1}-tile-${i+1}`:`overlap-tile-${i+1}`);assert(fs.existsSync(p.original));assert(p.crop.x+p.crop.w<=1);assert(p.crop.y+p.crop.h<=1)}
+assert(published.tiles.slice(48).every(t=>t.photos.length===0));
+console.log('Passed: 48 numbered photo regions, valid source references and region bounds; 12 reserved tiles.');

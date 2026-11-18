@@ -1550,7 +1550,7 @@
       "id": 49,
       "series": 0,
       "glazes": [],
-      "method": "Unassigned",
+      "method": "Underglaze test",
       "firingId": "",
       "notes": "",
       "layerOrder": "",
@@ -1558,7 +1558,30 @@
       "colourChange": "Not evaluated",
       "surface": "",
       "rating": "Not evaluated",
-      "photos": []
+      "photos": [
+        {
+          "id": "pink-underglaze-tile-49",
+          "name": "1000051311.jpg",
+          "original": "media/tile-49-original.jpg",
+          "thumbnail": "media/tile-49-original.jpg",
+          "caption": "Tile 49: pink underglaze. The upper stripe is marked 2 coats; the lower stripe is marked 1 coat.",
+          "type": "complete tile",
+          "crop": {
+            "x": 0.15104166666666666,
+            "y": 0.4140625,
+            "w": 0.6510416666666666,
+            "h": 0.53125,
+            "aspect": 0.9191176470588235
+          }
+        }
+      ],
+      "underglaze": {
+        "name": "Pink",
+        "coats": [
+          1,
+          2
+        ]
+      }
     },
     {
       "id": 50,

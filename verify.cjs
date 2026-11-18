@@ -11,7 +11,13 @@ console.log('Passed: 60 records, exact standard matrix, experiment counts, 10 bl
 const published=JSON.parse(fs.readFileSync('collection.json','utf8'));
 const validateSource=source.slice(source.indexOf('function validate(d)'),source.indexOf("$('#importFile').onchange"));
 vm.runInNewContext(validateSource+';validate(input)',{input:published});
-assert.equal(published.tiles.filter(t=>t.photos.length).length,48);
+assert.equal(published.tiles.filter(t=>t.photos.length).length,49);
 for(let i=0;i<48;i++){const p=published.tiles[i].photos[0];assert.equal(p.id,i<45?`series-${Math.floor(i/15)+1}-tile-${i+1}`:`overlap-tile-${i+1}`);assert(fs.existsSync(p.original));assert(p.crop.x+p.crop.w<=1);assert(p.crop.y+p.crop.h<=1)}
-assert(published.tiles.slice(48).every(t=>t.photos.length===0));
-console.log('Passed: 48 numbered photo regions, valid source references and region bounds; 12 reserved tiles.');
+const pink=published.tiles.find(t=>t.id===49);
+assert.equal(pink.method,'Underglaze test');
+assert.deepEqual(pink.underglaze,{name:'Pink',coats:[1,2]});
+assert.equal(pink.firingId,'');
+assert.equal(pink.photos[0].id,'pink-underglaze-tile-49');
+assert(fs.existsSync(pink.photos[0].original));
+assert(published.tiles.slice(49).every(t=>t.photos.length===0&&t.method==='Unassigned'));
+console.log('Passed: 49 photographed tiles, including the pink underglaze test; 11 reserved tiles.');
